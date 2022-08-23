@@ -1,0 +1,11 @@
+/**
+ money.ac
+ An example program for a syntax tree.
+*/
+
+main() {
+  int dollars, yen, bitcoins;
+  dollars = 30;
+  yen = dollars * 25;
+  bitcoins = dollars / 6;
+};
